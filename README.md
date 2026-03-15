@@ -1,6 +1,6 @@
 # Journal - ゲーム翻訳ツール
 
-ゲーム画面の指定した範囲を、Google翻訳、DeepL、Gemini AIを使って翻訳するツールです。
+ゲーム画面の指定した範囲を、Google翻訳 / DeepL / Gemini AIを使って翻訳するツールです。
 
 ## ダウンロード
 [最新版 v1.0 をダウンロード](https://github.com/Moyomon/Journal/releases/download/v1.0/Journal.zip)
