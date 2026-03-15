@@ -5,6 +5,7 @@
 ## ダウンロード
 [最新版 v1.0 をダウンロード](https://github.com/Moyomon/Journal/releases/download/v1.0/Journal.zip)
 
+<img width="1122" height="615" alt="Image" src="https://github.com/user-attachments/assets/0dab4ba2-7337-4727-9735-e5198e2824f9" />
 
 ## ✨ 主な機能
 
