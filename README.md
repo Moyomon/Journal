@@ -1,2 +1,6 @@
 # Journal
 ゲーム翻訳ツール
+## ダウンロード
+最新版の zip ファイルは以下のリンクからダウンロードしてください。
+
+[最新版をダウンロード（v1.0）]([https://github.com](https://github.com/Moyomon/Journal/releases/tag/v1.0))
