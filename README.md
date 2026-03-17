@@ -31,6 +31,5 @@
 
 ## ✨ 履歴
 
-**v1.02 翻訳者ロールを追加**  
-
+*   **v1.02 翻訳者ロールを追加**  
 <img width="575" height="215" alt="image" src="https://github.com/user-attachments/assets/95484aca-1b33-4da6-8cfe-70e4a673d978" />
