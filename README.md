@@ -8,6 +8,7 @@
 
 <img width="1122" height="615" alt="Image" src="https://github.com/user-attachments/assets/0dab4ba2-7337-4727-9735-e5198e2824f9" />
 
+
 ## ✨ 主な機能
 
 *   **最新のAI翻訳に対応**  
@@ -29,7 +30,9 @@
 2.  翻訳したい範囲を指定し、設定したキー（またはスティック）を押すだけで翻訳が始まります。
 
 
+
 ## ✨ 履歴
 
 *   **v1.02 翻訳者ロールを追加**  
-<img width="575" height="215" alt="image" src="https://github.com/user-attachments/assets/95484aca-1b33-4da6-8cfe-70e4a673d978" />
+<img width="571" height="217" alt="image" src="https://github.com/user-attachments/assets/71205d94-2082-4e6b-a016-b5c3bc75a35b" />
+
