@@ -3,7 +3,6 @@
 ゲーム画面の指定した範囲を、Google翻訳 / DeepL / Gemini AIを使って翻訳するツールです。
 
 ## ダウンロード
-![Latest Release](https://img.shields.io/github/v/release/Moyomon/Journal?label=最新バージョン)
 [最新版をダウンロード](https://github.com/Moyomon/Journal/releases/latest/download/Journal.zip)  
 ※初回起動時のみファイルを展開するため時間がかかります。
 
