@@ -33,7 +33,7 @@
   
 ## 🚀 アップデート
 
-*   v1.05 原文のレイアウトを維持する修正  
+*   v1.05 原文のレイアウトを維持するように修正  
 *   v1.02 翻訳者ロールを追加  
 <img width="571" height="217" alt="image" src="https://github.com/user-attachments/assets/71205d94-2082-4e6b-a016-b5c3bc75a35b" />
 
